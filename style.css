@@ -1,0 +1,15 @@
+.center {
+  text-align: center;
+}
+
+/* This class makes this fancy */
+.fancy {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.scaffold {
+  border: 3px solid red;
+
+}
